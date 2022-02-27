@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dovvnfal of Dagon: or, Certain signes of the sudden and unavoidable ruine of this Parliament and Army. With a caveat to the City of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81694</idno>
+            <idno type="STC">Wing D2085</idno>
+            <idno type="STC">Thomason E804_20</idno>
+            <idno type="STC">ESTC R207373</idno>
+            <idno type="EEBO-CITATION">99866429</idno>
+            <idno type="PROQUEST">99866429</idno>
+            <idno type="VID">118703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118703)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 122:E804[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dovvnfal of Dagon: or, Certain signes of the sudden and unavoidable ruine of this Parliament and Army. With a caveat to the City of London.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London. :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 16 1652"; the 3 in the date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118703:1" rendition="simple:additions"/>
+            <p>The dovvnfal of Dagon: OR, <hi>CERTAIN SIGNES</hi> OF The Sudden and Unavoidable Ruine Of this PARLIAMENT And ARMY.</p>
+            <p>With ACAVEAT To the City of LONDON.</p>
+            <p>Printed at <hi>LONDON.</hi> 1653. <add>Feb: 16 1652</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118703:2"/>
+            <pb n="1" facs="tcp:118703:2"/>
+            <head>The DOWNFAL OF DAGON.</head>
+            <p>I Having in a former Treatiſe laid open the riſe, growth, and ſome of the practices of this everlaſting Parliament and Army; I ſhall now enlarge my ſelf a little far<g ref="char:EOLhyphen"/>ther, to ſhew you the Fate that is hanging over their heads, and the unavoidable<g ref="char:EOLhyphen"/>neſs of their fall; with ſome ſignes that the preſent Government is in a declining ſtate.</p>
+            <p>I ſhall firſt lay before you their breaking Covenants, and ſweating their ſouls to the devil, to promote their wicked ambitious ends; having raiſed themſelves from the very ſcum of the people, to Lord it over their Superiours; and all by an Arbitrary, power, being backed on by a few Coblers and Shoo-makers, and a company of De<g ref="char:EOLhyphen"/>ſperado's.</p>
+            <p>As for their Perjury; Swearing they regard not, nor Forſwearing, ſo it conduce to their profit: and in that, they imitate their elder brother the Turk, who holds that there are no Oathes to be kept with Chriſtians, any longer then they ſerve for their advantages. Nay, theſe Independents go beyond the Turks: for they are Heathens, but theſe are Atheiſts; theſe acknowledge not Chriſt, many of them; witneſs that blaſphemous Book, intituled, <hi>THE THREE GRAND IMPOSTORS,</hi> written by an Honourable Member (forſooth) and printed for <hi>Giles Calvert,</hi> dwell<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng neer the weſt<g ref="char:EOLhyphen"/>end of <hi>Pauls,</hi> at the ſigne of the black Spread-Eagle; that pure Saint, who, if he had had his deſert, ſhould have been hanged long ſince, for the many blaſphemous Pieces by him diſperſed. And now my hand is in, pray take notice of another Book by him lately printed in Engliſh, called, <hi>The Racovian Catechiſm:</hi> This Book, full fraught with damnable doctrines, denies the Divinity of Jeſus Chriſt. (O hor<g ref="char:EOLhyphen"/>rid Blaſphemy!) One of theſe I bought of <hi>Calvert,</hi> and he told me, That in that Book there was contained more ſound Divinity, then in any book that over was printed.</p>
+            <pb n="2" facs="tcp:118703:3"/>
+            <p>O <hi>England,</hi> wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a paſs art thou brought unto! In ſtead of a pure Reformation, and a propagating of the Goſpel, with an eſtabliſhment of the Kingdom of Jeſus Chriſt, here is nothing but holding forth Confuſion, as their Ranting ſpirit moves them.</p>
+            <p>Nay, I muſt needs ſay, they are very zealous for the Cauſe of Chriſt (as they pre<g ref="char:EOLhyphen"/>tend) when they make a Laughing-ſtock of the holy Scripture, denying the Holy Ghoſt to be God, and taking away the Divinity of Jeſus Chriſt; and withal, terming the Sacrament of the Lords Supper <hi>a holy Fiction.</hi>
+            </p>
+            <p>You may plainly perceive, what temper our Sword men are of; when lately there came forth a ſmall Pamphlet, intituled, <hi>A Beacon fired,</hi> humbly petitioning theſe Saints for a ſuppreſſing of Popiſh Books, which lately are come forth without con<g ref="char:EOLhyphen"/>troul; whereupon, Colonel <hi>Pride</hi> takes up the Buckler againſt the Petitioners, and ſtands in defence of Popiſh Books: which made the Petitioners (at firſt) much to ad<g ref="char:EOLhyphen"/>mire, ſeeing him write ſo contrary to the Principles that he had always ſeemed to pro<g ref="char:EOLhyphen"/>feſs; ſo that upon good conſiderations they anſwered him ſo effectually, that they have ſtopt his mouth with a <hi>Non obſtante.</hi>
+            </p>
+            <p>Here, you may plainly ſee, that the Turks are better Chriſtians then theſe men: for they acknowledge Chriſt for a great Prophet ſent from God; but theſe Saints in their Book (as I mentioned before) called <hi>The three grand Impostors,</hi> (the main ſcope whereof is to prove <hi>Christ, Moſes,</hi> and <hi>Mahomet,</hi> to be Impoſtors) have the im<g ref="char:EOLhyphen"/>pudence to do their endeavour to prove Chriſt an Impoſtor. Theſe are the men that do ſtand up in the Cauſe of Chriſt, to pull down Anti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſt, while they ſet up the Devil.</p>
+            <p>But what will not theſe men ſtick to do, that have by a baſe Arbitrary power, and an unheard-of Barbariſm, after they had ſworn Allegiance to their King, and taken a ſolemn Oath, in the preſence of God, to bring him home to his two Houſes of Parlia<g ref="char:EOLhyphen"/>ment, and make him the moſt glorious Prince that ever reigned over. <hi>Great Britain?</hi> and yet <hi>CROMWEL,</hi> with his Minions, hurried him into the Iſle of <hi>Wighl,</hi> and kept him a cloſe priſoner: but then theſe Cameleons, that can turn themſelves into any colour, began to ſhew themſelves in their right hue.</p>
+            <p>And firſt, <hi>Cromwel</hi> in the Houſe of Commons ſtandeth up, with his noſe flaming like ſome prodigious Comet, that threatneth devaſtation to ſome Kingdom; and, with his hands laid upon hss hypocritical breſt, told the Speaker that it was unſafe to truſt the King (a man of Blood, one that had betrayed that Truſt which the people had repo<g ref="char:EOLhyphen"/>ſed in him) and therefore he deſired them that he might be brought to a ſtrict account for all the blood that had been ſhed in this Nation in the late War.</p>
+            <p>I ſhall inſiſt no longer upon their perfidious and barbarous dealing about the King, ſeeing it is ſo notoriouſly known all the world over.</p>
+            <p>No ſooner had they murdered the King, contrary to their Oathes of Allegiance, and ſolemn League and Covenant, the many Imprecations, whereby God hath been called to witneſs that they never intended any harm to the Kings Perſon; but now you may ſee what force an Oath is of, to binde theſe Miſcreants, that, rather then they will miſs of their ambitious ends, will damn their ſouls.</p>
+            <p>With what face can theſe men appear before God at the laſt day, having their hands imbrned in the blood of their native Prince, to give an account of all their diabolical actions?</p>
+            <p>They have not onely ſtretched out their hands againſt the King, God's Vice-roy; but alſo againſt the M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtery, by ſending ſome to heaven, where (I am very ſure) none of them will ever come; impriſoning of others, and ſequeſtring their eſtates.</p>
+            <p>Theſe are pure Saints, that thus do tyrannize over the Church, perſecuting Chriſt in his Members, and, in as much as in them lieth, endeavour the utter ſubverſion of
+<pb n="3" facs="tcp:118703:3"/> the true Proteſtant Religion, by tolerating of all manner of Hereſies and Blaſphemies, advancing Schiſmatical perſons both in Church and State; their main end being to bring in Atheiſm and Confuſion.</p>
+            <p>And thus they do (like <hi>Julian</hi> the Apoſtate) by taking away the maintenance of the Miniſtery, that ſo by Poverty, they may (of neceſſity) beforc'd to leave their Call<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs, and betake themſelves to ſome other employment, to keep their wives and children from ſtarving. And thus <hi>Julian</hi> the Apoſtate, (as we read) when his perſecuting Sword prevailed on the Chriſtians but little, took this courſe to make them leave Chriſt, and follow his wicked example.</p>
+            <p>But there can be no men, let them be never ſo infamous for wickedneſs, but theſe men will (as nigh as they can) tread in their ſteps!</p>
+            <p>O what a miſerable thing it is, to ſee <hi>Great Britain,</hi> that hath been the moſt free and flouriſhing Monarchie upon the face of the earth! that hath been famous for the many Expeditions this Engliſh Nation hath made both by Sea and Land; to vindicate its ho<g ref="char:EOLhyphen"/>nour againſt its forraign enemies! and by Land, how many Trophies of their Victo<g ref="char:EOLhyphen"/>ries have they erected in <hi>France,</hi> and divers other parts of <hi>Eu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ope!</hi> how hath it flou<g ref="char:EOLhyphen"/>riſhed for the many excellent Laws in it eſtabliſhed, and bleſſed (I may ſay) for the light of the Goſpel, which it enjoyed, when other neighbour-kingdoms wandered in the darkneſs of Popiſh Errours.</p>
+            <p>But now, O <hi>England,</hi> how is thy former glory vaniſhed away! how contemptible art thou become to all round about thee, a ſcorn to all Nations! This is fallen upon us, by ſuffering a baſe mercenary Army, and a few men that carried the name of a Par<g ref="char:EOLhyphen"/>liament, to murther our lawful King, that ſo they m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght eſtabliſh a Government that the like was never heard of before: but now when they had murthered the King, they immediately leap up into the ſaddle, and ſpur out the very heart and blood of the peo<g ref="char:EOLhyphen"/>ple, by their Oppreſſions.</p>
+            <p>The firſt thing they do, is to make us a Free State; that is, our eſtates, purſes, and perſons muſt be free at their diſpoſing. Then next, we muſt ſit down like ſilly Aſſes, and let them load us with Exciſe of all things, Contribution, Free-Quarter, Taxes, Vexations, and what elſe they pleaſe to lay upon us. And yet Ship-money, that was a tyrannical illegal Tax, although the King did it out of a pure neceſſity: his Neigh<g ref="char:EOLhyphen"/>burs at that time (he being ſo weak at Sea) offered him many affronts, denying to ſtrike Sayl to his ſhips, as the cuſtom of the Sea is, when they came in the Narrow, be<g ref="char:EOLhyphen"/>tween <hi>France</hi> and <hi>England;</hi> His Guard of ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps being then ſo ſlender, that our Neigh<g ref="char:EOLhyphen"/>bours had them in contempt. Yet for all this, the King was ſo unwilling to impoſe any new Tax, that firſt he would have the advice of his Councel, then of his Judges, that ſo he might not go contrary to the Laws of the Land. They all agreed that it was warrantable, and produced divers Records, how that many of his Progenitors had done the like before, in caſe of neceſſity.</p>
+            <p>The King being thus convinced of the lawfulneſs of it, he then commanded that it ſhould be levied, but in ſuch a manner, that it ſhould be employed to the ſame end and purpoſe that it was levied for, and not to run in by-Chanels, into any private mens purſes, nor to the enriching of himſelf or any of his Court, but for the good of his ſub<g ref="char:EOLhyphen"/>jects, and the honour of the Nation.</p>
+            <p>Compare Ship money to thoſe many Taxes that we lie groaning under, and judge who have been the greateſt Tyrants and Oppreſſors of the People, either the late King, or (as you call it) the Parliament.</p>
+            <p>We will begin firſt with Exciſe, that inſenſible devourer of the Poor and impoveriſher of the Rich: you ſee our Curs, our Powdering-Tubs, our Waſhing-Bowls, our Kettles,
+<pb n="4" facs="tcp:118703:4"/> our Hats, Doublets, Breeches, Stockings, Shooes; and nothing we eat, or drink, or wear, is free from being devoured by theſe men, that thus complained of the King for that inconſiderable Tax of Ship-money.</p>
+            <p>Sequeſtration, that is another way they uſe, to gull men of eſtates. How many thouſand families in this Nation have they utterly beggered by Sequeſtration? Moſt of the Nobility and Gentry, if they have had out the leaſt ſpark of honeſty in them, they have brought into as great a Want and Poverty, as ſome of them were in, when they waited on the Drays with the Slings on their backs, or with the Tallies by their ſides. But now they have killed, and have alſo took poſſeſſion: the King's, Queens, and Prince's Lands, the Lands of the Nobility and Gentry, they have ſhared amongſt themſelves; and yet all this, and much more, is too little to ſatisfie their inſatiable ap<g ref="char:EOLhyphen"/>petites. And for all this, our mouthes muſt be buttoned up, ſo that we are not ſuffered that filly comfort of venting our griefs by way of complaint; but upon every light word, a man is in danger to be made an offender, to the utter ruine of him and his po<g ref="char:EOLhyphen"/>ſterity.</p>
+            <p>O <hi>London,</hi> theſe are thy golden Calves that thou haſt ſet up, and doſt worſhip; theſe be the Idols to whom you have ſacrificed your ſons and ſervants, to maintain their Op<g ref="char:EOLhyphen"/>preſſions over you.</p>
+            <p>Exciſe and Sequeſtrations are too little to quench their inſatiable covetouſneſs: but they have another way to drain the Treaſury of the Nation, and that is by Contribu<g ref="char:EOLhyphen"/>tion. Theſe Monſters of men (that like Vipers eat out the bowels of their mother) having no regard at all to the groans of the poor, nor the miſerable ſlavery that we lie under (worſe then the Iſraelites under their Egyptian Task-maſters) do perſiſt in their abhorrible practices, to ſuck the blood of the people, and will at laſt inforce us to ſell our wives and children, for to ſatisfie their greedy deſires. You may ſee plainly that they are fully bent to ſtrip us naked of all that we have, by that late Act of theirs for the raiſing the Tax thirty thouſand pounds a month more then ever it was before. I ſhall ſay nothing of Free-Quarter, and many more exorbitancies and outrages com<g ref="char:EOLhyphen"/>mitted in the Country by the Souldiery.</p>
+            <p>But now we ſee, by woful experience, the difference between the milde Government of our late Soveraign King CHARLES, and the deſtructive domineering of our new<g ref="char:EOLhyphen"/>fangled State. They cried out on him for his Oppreſſions, and have themſelves gone beyond him, and all others that our Modern Hiſtories ever make mention of.</p>
+            <p>But who have been the main cauſers of all our ſorrow? even this rebellious City of <hi>London,</hi> a moſt ungrateful City: the King making it his Royal Seat, and place of abode, (whenas he might as well have removed his Court to <hi>York,</hi> or ſome other place, for the more commodious addreſſes of his people of <hi>Scotland</hi> and <hi>Ireland</hi> unto him) and all to make it famous and flouriſhing: but in requital, they have been the onely ſtir<g ref="char:EOLhyphen"/>rers up of Sedition and Rebellion againſt his perſon, and at laſt have made themſelves infamous, by being acceſſary to the murther of their King.</p>
+            <p>But now behold the juſt judgement of God, that ere long will undoubtedly fall up<g ref="char:EOLhyphen"/>on them for their unparallel'd wickedneſs. I may very well pronounce this judgement againſt it, which was once pronounced againſt <hi>Jeruſalem,</hi> in <hi>Ezekiel</hi> the twenty fourth, and the ſixth: <hi>Wherefore thus ſaith the Lord God, wo to the bloody city, to the pot whoſe ſcum is therein, and whoſe ſcum is not gone out of it. Bring it out piece by piece, let no lot fall upon it.</hi> And in the two and twentieth Chapter; the Prophet giveth a reaſon for the Wo he had pronounced againſt it: <hi>For,</hi> ſaith he, <hi>thou art become guilty in the blood that thou haſt ſhed, and haſt defiled thy ſelf in the idols which thou haſt made, And thou haſt cauſed thy days to draw neer. and art come even unto thy yeers. Wherefore I have made thee a reproach unto the Heathen, and a mocking unto all countries.</hi>
+            </p>
+            <pb n="5" facs="tcp:118703:4"/>
+            <p>Without queſtion; the judgements of God will ſuddenly fall upon this City: and Gods Juſtice will the more man<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>feſtly appear, in cauſing thoſe Idols that they have ſet up (the Parliament, that they ſo much adore) to be the main cauſers of the depopulating, and finally the deſtruction of it. For now the main Project that they have in hand, is the altering of the Law, and joyning the Counties into Provinces, and then to adjourn the Terms into the ſeveral Provinces! ſo that the Term, that is the main ſupporter of the Retayll Traders, and upholder of the pride of the City, being taken away, the in<g ref="char:EOLhyphen"/>habitants muſt either be inforc'd to go down into the Country to ſelf their commodities, or elſe ſtarve for want of Trading.</p>
+            <p>Beſides this, divers other ways there are now under conſultation, for to bring down the pride and arrogancie of this <hi>London,</hi> and make it know that God can and will make wicked men the executors of his juſt indignation againſt this ſo rebellious and ſeditious a City as this is and hath been.</p>
+            <p>And moreover, if it doth not ſuddenly repent for all the blood that it hath been the onely cauſers to be ſhed in this Kingdom, God will very ſuddenly pour out his venge<g ref="char:EOLhyphen"/>ance upon it, and, as the Prophet ſaith, will make it <hi>a reproach unto the heathens, and a m<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> unto all Countries.</hi>
+            </p>
+            <p>Next of all, I will ſhew you that God, who is the avenger of the oppreſſed, a father the fatherleſs, and the comforter of the widow, is now making inquiſition for the blood of the King, of the Noble-men, of the Miniſters; and all the blood that hath been ſpilt in theſe Nations of <hi>England</hi> and <hi>Scotland,</hi> among the privie actors of their mur<g ref="char:EOLhyphen"/>thers; And that he is now bringing the Deſtroyer to deſtruction, as it is ſaid in the twelfth Pſalm, and fifth verſe: <hi>For the oppreſſion of the poor, and for the ſighting of the nec<g ref="char:EOLhyphen"/>dy, now will I ariſe (ſaith the Lord) I will ſet him in ſafety from him that puffeth at him.</hi> God will not let blood go long unrevenged. And although there can be no account given to the Nation of all or any of the vaſt ſums that they have raiſed in or ſince the late Wars; yet God he will make them account for all their wickedneſs, and make them know there is a God, although they deny him in all their actions.</p>
+            <p>We may ſee plainly that God hath deſigned them to deſtruction, in raiſing up the Dutch againſt them, and giving them good ſucceſſes this laſt yeer, by beating their in<g ref="char:EOLhyphen"/>vincible Navie (which they ſo much vaunted of, as if no power on earth could over<g ref="char:EOLhyphen"/>come) out of their own Sea (as they call it) burning and ſinking their ſhips in their Harbours, landing their men, and plundering the Country: ſo that the very name of a Dutch-man is enough to fright their guilty conſciences into a Tertian Ague.</p>
+            <p>Beſides the Dutch, the Dane is making great preparations againſt next Summer, for to jerk their ſpiritual Army by Land.</p>
+            <p>The Highlanders in <hi>Scotland</hi> have beaten them out of the High-lands into the Low<g ref="char:EOLhyphen"/>lands, and do there get ground of them every day more and more: but not one tittle of this muſt come into their feigned Letters out of <hi>Scotland,</hi> that are printed in their weekly News-books.</p>
+            <p>The Iriſh, they quit themſelves like men, ſtanding up manfully in defence of their Country, and will accept of no Parley, ſince <hi>Cromwel</hi> (in the yeer 1649.) under a pretence of a Confederacie, lurched <hi>Oneal:</hi> they have gone ſo reſolutely on, that they cannot deny but that they have taken ſome petty Gariſons (as they call them.)</p>
+            <p>The King of <hi>France</hi> he demands ſatisfaction for Pyracie that they have committed; and withal, for taking his Ships going to the relief of <hi>Dunkirk;</hi> ſo that he having recei<g ref="char:EOLhyphen"/>ved no ſatisfactory anſwer as yet by his Ambaſſadour ſent to them lately, is making all the preparations he can to joyn with the Dutch, and right himſelf as well as he can of all the wrongs he and his Subjects have received from them.</p>
+            <pb n="6" facs="tcp:118703:5"/>
+            <p>Now joyn all theſe Preparations of our Neighbours toge<g ref="char:EOLhyphen"/>ther; and conſider withal, theſe mens guiltineſs of Conſci<g ref="char:EOLhyphen"/>ence, and deſpairing of Pardon; their diſtruſtfulneſs of one another, and the diviſions among themſelves; and then conſi<g ref="char:EOLhyphen"/>ſider alſo, whether it is not plain that God hath a ſpecial hand in all this.</p>
+            <p>How hath he beſet them on every ſide! above, before, be<g ref="char:EOLhyphen"/>hinde, and every way. God he is above, fighting againſt them; their Neighbours round about them: ſo that they ſtand like a Murtherer on the Gallows, hedged in with Halber<g ref="char:EOLhyphen"/>diers to perform the execution.</p>
+            <p>Then at laſt they ſhall ſee that there is a God that doth <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> in heaven, and from his all-ſeeing eye there is nothing <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: he knoweth their ſecret conſultations, as well as their open practices: He hath ſuffered them for a while to Lord it over us; and to run their courſes, that ſo the meaſure of their ſins might be full, and that then God might pour out the vials of his wrath and indignation upon their heads.</p>
+            <epigraph>
+               <q>So let all thine enemies periſh, O Lord.</q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
